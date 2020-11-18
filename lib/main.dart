@@ -28,7 +28,7 @@ class LinkLandingPage extends StatelessWidget{
              SizedBox(height: 40.0,),
              FadeInImage.memoryNetwork(
                placeholder: kTransparentImage,
-               image: 'https://www.linkpicture.com/view.php?img=LPic5fb3cd7c06b6c1001938814',
+               image: 'https://i.ibb.co/qktbSk4/ravindra.jpg',
                height: 125,
                width: 125,),
              Padding(
